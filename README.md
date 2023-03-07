@@ -5,8 +5,7 @@
 
 
 ## The problem we're solving
-These days is very common to see people strugling with depression and mental health. The WHO (World Health Organzacion) say we  [need to transform mental health]
-(https://www.who.int/news/item/17-06-2022-who-highlights-urgent-need-to-transform-mental-health-and-mental-health-care)
+These days is very common to see people strugling with depression and mental health. The _WHO (World Health Organzacion)_ said we [need to transform mental health](https://www.who.int/news/item/17-06-2022-who-highlights-urgent-need-to-transform-mental-health-and-mental-health-care)
 
 
 ## The solution?
