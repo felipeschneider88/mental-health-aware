@@ -81,11 +81,11 @@ namespace aware.Api.Controllers
         }
 
         [HttpPost]
-        [Route("Wholedayinevent")]
+        [Route("WholeDayEvent")]
         public async Task<Event> PostWholeDayMeeting()
         {
-            string start = DateTimeOffset.UtcNow.ToString();
-            string end = DateTimeOffset.UtcNow.AddMinutes(20).ToString();
+            string start = DateTimeOffset.UtcNow.ToString("yyyy-MM-ddT00:00:00");
+            string end = DateTimeOffset.UtcNow.AddDays(1).ToString("yyyy-MM-ddT00:00:00");
             var requestBody = new Event
             {
                 IsAllDay = true,
