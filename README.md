@@ -19,12 +19,17 @@ Create a WebAPI to access the user's calendar and manage the comming events and 
 
 ## ScreenShots
 
+
+**Swagger view**  
+![Swagger view](./Swagger.png)
+
+
 **Office Outlook add-in panel**  
-![OOO created with the graph](./awareaddin.png)
+![Office Outlook add-in panel](./awareaddin.png)
 
 
 **Crete short 20min event to take a break**  
-![OOO created with the graph](./createEvent.png)  
+![Crete short 20min event to take a break](./createEvent.png)  
   
 
 **Out of the Office created with Graph**  
