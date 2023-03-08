@@ -31,6 +31,6 @@ Create a WebAPI to access the user's calendar and manage the comming events and 
 ![OOO created with the graph](./OOO.png)
 
 
-##TODO
+## TODO
 - Reschedule meetings if you have an appointment collision
 - Add the add-in project to work as the fronted of the project
