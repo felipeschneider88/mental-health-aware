@@ -15,4 +15,22 @@ Create a WebAPI to access the user's calendar and manage the comming events and 
 
 - Ask the user how is feeling right now.
 - Make a quick 20min meeting in theuser calendar, so he/she can take a break.
-- Block the calendar with a all-day appoitment when the user say is not feelig well. Reschedule a meeting if there where any in that day.
+- Block the calendar with a all-day appoitment when the user say is not feelig well. 
+
+## ScreenShots
+
+**Office Outlook add-in panel**  
+![OOO created with the graph](./awareaddin.png)
+
+
+**Crete short 20min event to take a break**  
+![OOO created with the graph](./createEvent.png)  
+  
+
+**Out of the Office created with Graph**  
+![OOO created with the graph](./OOO.png)
+
+
+##TODO
+- Reschedule meetings if you have an appointment collision
+- Add the add-in project to work as the fronted of the project
