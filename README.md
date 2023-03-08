@@ -34,3 +34,8 @@ Create a WebAPI to access the user's calendar and manage the comming events and 
 ## TODO
 - Reschedule meetings if you have an appointment collision
 - Add the add-in project to work as the fronted of the project
+
+## Ideas for version 0.2
+* Track daily moods and prenset as a chart to the user so he can visualize how is 
+* NOtify the manager of the user who is struglinig with his daily tasks
+* Create a MS Teams bot to interact with the API
