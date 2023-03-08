@@ -37,13 +37,5 @@ namespace aware.Api.Controllers
             ProfileDTO profileDTO = new ProfileDTO(me.DisplayName, me.UserPrincipalName);
             return profileDTO;
         }
-
-        [HttpGet]
-        [Route("calendar")]
-        public async Task<String> GetCalendar()
-        {
-            var cal = await _graphServiceClient.Me.Calendar.Request().GetAsync();
-            return cal.Owner.ToString();
-        }
     }
 }
