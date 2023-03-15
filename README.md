@@ -20,8 +20,12 @@ Create a WebAPI to access the user's calendar and manage the comming events and 
 ## Presentation and demo
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TkHRsVpxN8I/0.jpg)](https://www.youtube.com/watch?v=TkHRsVpxN8IE)
 
-<video src="https://www.youtube.com/watch?v=TkHRsVpxN8I" controls="controls" style="max-width: 730px;">
-</video>
+
+## Solution Diagram
+
+![SolutionDiagram](./SolutionDiagram.png)
+
+
 ## ScreenShots
 
 
