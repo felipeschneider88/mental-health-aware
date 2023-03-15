@@ -18,7 +18,13 @@ Create a WebAPI to access the user's calendar and manage the comming events and 
 - Block the calendar with a all-day appoitment when the user say is not feelig well. 
 
 ## Presentation and demo
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/TkHRsVpxN8I/0.jpg)](https://www.youtube.com/watch?v=TkHRsVpxN8IE)
+
+**Introduction video**  
+[![Introduction video](https://img.youtube.com/vi/TkHRsVpxN8I/0.jpg)](https://www.youtube.com/watch?v=TkHRsVpxN8IE)
+
+**Demo video**  
+[![Demo video](https://img.youtube.com/vi/aIbCKyoye2I/0.jpg)](https://www.youtube.com/watch?v=aIbCKyoye2I)
+
 
 
 ## Solution Diagram
@@ -29,11 +35,11 @@ Create a WebAPI to access the user's calendar and manage the comming events and 
 ## ScreenShots
 
 
-**Swagger view**  
+**Swagger view**    
 ![Swagger view](./Swagger.png)
 
 
-**Office Outlook add-in panel**  
+**Office Outlook add-in panel**    
 ![Office Outlook add-in panel](./awareaddin.png)
 
 
